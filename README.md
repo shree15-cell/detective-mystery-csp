@@ -94,3 +94,5 @@ Detective Mystery-CSP/
 ├── csp_solver.py
 ├── requirements.txt
 └── README.md
+Play The Mystery of Room 404
+(https://detective-mystery-csp-uqt5dgrabasuj3mw3phwwn.streamlit.app/)
